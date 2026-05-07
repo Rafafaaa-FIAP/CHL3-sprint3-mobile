@@ -122,7 +122,7 @@ npx expo install @expo/vector-icons
 ## 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Rafafaaa-FIAP/CHL3-sprint3-mobile
 ```
 
 ---
@@ -202,6 +202,11 @@ Uso do AsyncStorage para:
 O projeto utiliza componentes reutilizáveis para:
 - botões
 - cards de clínicas
+
+---
+
+## Vídeo Demonstrativo
+Clique [aqui](https://youtu.be/yjPBaWf0TzU) para acessar
 
 ---
 
