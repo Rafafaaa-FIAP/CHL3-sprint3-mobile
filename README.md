@@ -213,6 +213,7 @@ Clique [aqui](https://youtu.be/yjPBaWf0TzU) para acessar
 # Integrantes
 
 * 553377 - Enzo Rodrigues
+* 552632 - Gabriel Mediotti
 * 553384 - Maria Julia
 * 553266 - Hugo Santos
-* 553521 - Rafal Cristofali
+* 553521 - Rafael Cristofali
