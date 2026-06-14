@@ -19,6 +19,7 @@ import {
 import LoginScreen from '../screens/LoginScreen';
 import HomeScreen from '../screens/HomeScreen';
 import ClinicDetailsScreen from '../screens/ClinicDetailsScreen';
+import { MonitoringScreen } from '../screens/MonitoringScreen';
 
 import { RootStackParamList } from '../types/navigation';
 
@@ -101,6 +102,14 @@ export default function AppRoutes() {
           component={ClinicDetailsScreen}
           options={{
             title: 'Detalhes',
+          }}
+        />
+
+        <Stack.Screen
+          name="Monitoring"
+          component={MonitoringScreen}
+          options={{
+            title: 'Monitoramento IoT',
           }}
         />
       </Stack.Navigator>

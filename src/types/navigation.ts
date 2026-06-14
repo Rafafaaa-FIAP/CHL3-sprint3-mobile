@@ -6,4 +6,6 @@ export type RootStackParamList = {
   ClinicDetails: {
     clinicId: number;
   };
+
+  Monitoring: undefined;
 };

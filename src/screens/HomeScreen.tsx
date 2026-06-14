@@ -166,6 +166,15 @@ export default function HomeScreen() {
     <View style={styles.container}>
       <View style={styles.header}>
         <Button
+          title="Monitoramento IoT"
+          onPress={() =>
+            navigation.navigate('Monitoring')
+          }
+        />
+
+        <View style={styles.buttonSpacing} />
+
+        <Button
           title="Sair"
           onPress={handleLogout}
         />
@@ -230,5 +239,9 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     borderWidth: 1,
     borderColor: COLORS.border,
+  },
+
+  buttonSpacing: {
+    height: 10,
   },
 });
