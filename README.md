@@ -361,7 +361,7 @@ O projeto utiliza componentes reutilizáveis para:
 
 Clique [aqui](https://youtu.be/yjPBaWf0TzU) para acessar o vídeo da sprint 3
 
-Clique [aqui](https://youtu.be/yjPBaWf0TzU) para acessar o vídeo da sprint 4
+Clique [aqui](https://youtu.be/F7th54HZBJ0) para acessar o vídeo da sprint 4
 
 ---
 
